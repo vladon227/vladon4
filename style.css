@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visibility</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h3>Visibility property<h3/>
+<p class="hidden">hidden</p>
+
+<br><br><br>
+<h3>Opacity</h3>
+<p class="op_1">Opacity1</p>
